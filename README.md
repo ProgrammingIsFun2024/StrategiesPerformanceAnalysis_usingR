@@ -1,4 +1,4 @@
-Analyze the performance of the following strategies on SPDR sector ETFs (a family of ETFs offered by State Street Global Advisors under the SPDR (Standard & Poor's Depositary Receipts) brand:'XLB', 'XLE', 'XLF', 'XLI', 'XLK', 'XLP', 'XLU', 'XLV', 'XLY') and 'SPY' using R, 
+Analyze the performance of the following strategies on SPDR sector ETFs (a family of ETFs offered by State Street Global Advisors under the SPDR (Standard & Poor's Depositary Receipts)brand) using R, 
 spanning from November 1, 1999, to October 8, 2021. 
 
 Strategy:
